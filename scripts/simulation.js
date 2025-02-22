@@ -1,5 +1,3 @@
-import { Pendulum } from "./pendulum.js"
-
 const trajectory = document.getElementById('trajectory')
 const trajectoryContext = trajectory.getContext('2d')
 const canvas = document.getElementById('screen')

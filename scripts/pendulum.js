@@ -1,4 +1,4 @@
-export class Pendulum {
+class Pendulum {
 
     constructor(angle, mass, radius, velocity, acceleration) {
         this.acceleration = acceleration
