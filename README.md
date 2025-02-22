@@ -1,4 +1,4 @@
-<img alt="Notepad" src="images/readme/readme.banner.png" />
+<img alt="Double Pendulum" src="images/readme/readme.banner.png" />
 
 <h1 align="center">
     Double Pendulum
